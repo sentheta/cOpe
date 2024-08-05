@@ -2,4 +2,4 @@
 
 cOpe stands for course opener, written in camel case
 
-A script is added to /bin/cope to allow user directly invoke this program in the terminal
+Add a script to path (e.g. /bin/cope) to allow user directly invoke this program from the terminal
