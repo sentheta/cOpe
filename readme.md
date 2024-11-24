@@ -2,7 +2,7 @@
 
 cOpe stands for course opener.
 
-To allow user directly invoke this program in the terminal, please add the script `cope` to `~/.local/bin/` directory.
+To allow user directly invoke this program in the terminal, please add the script `cope` to `~/.local/bin/` directory. Remember to write your own pathname (e.g. `/home/myUser/cope/`) in the script `cope`.
 
 # Functionalities
 
