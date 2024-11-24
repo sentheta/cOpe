@@ -14,4 +14,4 @@ User can input an index, course code, or keyword. The program will launch the co
 
 `up_arrow` will do the previously selected action.
 
-`` (empty string) and `ctrl+C` will terminate the program.
+`ctrl+C` and empty string will terminate the program.
