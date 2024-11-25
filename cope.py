@@ -114,12 +114,13 @@ def chooseAction():
 if __name__=="__main__":
 	loadCourse()
 
-	headerArt =''' _   _  __  ___
-/ \\ / \\ | \\ |__
-|   | | |_/ |__
-\\_/ \\_/ |   |__
+	headerArt ='''
+  __     __    ,__    .___
+ /  \\   /  \\   |  \\   |
+ |      |  |   |__/   |--
+ \\__/   \\__/   |      |___
 '''
-	print(headerArt)
+	print(headerArt[1:], end='')
 
 	while True:
 		# clearScreen()
