@@ -10,7 +10,9 @@ User can input an index, course code, or keyword. The program will launch the co
 
 `+` allow user to add a course entry.
 
-`-` allos user to remove a course entry.
+`-` allow user to remove a course entry.
+
+`/` allow user to swap two course entries.
 
 `up_arrow` will do the previously selected action.
 

@@ -70,7 +70,18 @@ def removeCourse():
 		writeCourse()
 		print("Course removed");
 	except Exception as e: print(f"Error: {e}")
-		
+
+def swapCourse():
+	try:
+		global courses
+		print("First index to be swapped: ", end='');
+		i = int(getInput())
+		print("Second index to be swapped: ", end='');
+		j = int(getInput())
+
+		courses[i], courses[j] = courses[j], courses[i]
+	except Exception as e: print(f"Error: {e}")
+
 # let user choose action
 def chooseAction():
 	try:
@@ -89,6 +100,9 @@ def chooseAction():
 			return
 		if s=="+":
 			addCourse()
+			return
+		if s=="/":
+			swapCourse()
 			return
 		if s=="":
 			print("Exiting...")

@@ -5,23 +5,33 @@
         "link": "https://ntulearn.ntu.edu.sg/ultra/course"
     },
     {
-        "code": "MH5301",
-        "title": "Modern Cryptography",
-        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2661349_1"
+        "code": "SC2008",
+        "title": "Computer Network",
+        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2668009_1"
     },
     {
-        "code": "SC2006",
-        "title": "Software Engineering",
-        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2663107_1"
+        "code": "SC3000",
+        "title": "Artificial Intelligence",
+        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2668015_1"
     },
     {
-        "code": "SC2207",
-        "title": "Intro to Databases",
-        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2663113_1"
+        "code": "SC3010",
+        "title": "Computer Security",
+        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2668016_1"
     },
     {
-        "code": "SC2207",
-        "title": "Intro to Databases (Lab)",
-        "link": "https://ntulearn.ntu.edu.sg/webapps/blackboard/execute/courseMain?course_id=_2665704_1"
+        "code": "ML0004",
+        "title": "Career & Innovation",
+        "link": "https://ntulearn.ntu.edu.sg/ultra/courses/_2668989_1/outline"
+    },
+    {
+        "code": "ML0004t",
+        "title": "Career & Innovation (Tut)",
+        "link": "https://ntulearn.ntu.edu.sg/ultra/courses/_2669006_1/outline"
+    },
+    {
+        "code": "CC0006",
+        "title": "Sustainability",
+        "link": "https://ntulearn.ntu.edu.sg/ultra/courses/_2670098_1/outline"
     }
 ]
